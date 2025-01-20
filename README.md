@@ -12,7 +12,7 @@ The **Responsive Admin Panel Plugin for Strapi v5** enhances the usability of th
 
 ### Install via NPM
 ```bash
-npm install strapi-plugin-responsive-admin
+npm install strapi-5-plugin-responsive-backend
 ```
 
 ### Add to Your Strapi Project
