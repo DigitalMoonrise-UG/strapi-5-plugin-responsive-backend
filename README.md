@@ -26,8 +26,17 @@ Once installed, the plugin will **automatically** apply its styles when you acce
 ---
 
 ### Example Adjustments
+
 - **Navigation Bar**: It moved from the left to the top and shrinked in height.
 - **Spacing**: Some paddings were adjusted to make the content manager more accessible.
+
+---
+
+## Screenshots
+
+| Content Manager - Overview                                              | Content Manager - Editing Entry                                        |
+|-------------------------------------------------------------------------|------------------------------------------------------------------------|
+| ![](https://backend.digitalmoonrise.de/uploads/plugin_1_6c48e14491.png) | ![](https://backend.digitalmoonrise.de/uploads/plugin2_0d4e45d224.png) |
 
 ---
 
