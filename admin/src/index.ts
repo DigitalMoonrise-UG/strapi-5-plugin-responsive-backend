@@ -71,6 +71,3 @@ export default {
 		document.head.appendChild(style);
 	},
 };
-
-// <main aria-labelledby="main-content-title" id="main-content" tabindex="-1" class="sc-KXCwU hmVCXt sc-fDEMvA bRwPdd">
-// <main aria-labelledby="main-content-title" id="main-content" tabindex="-1" class="sc-KXCwU geZizU sc-fDEMvA bRwPdd">
