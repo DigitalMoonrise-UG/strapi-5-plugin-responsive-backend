@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.4",
   "keywords": [],
   "type": "commonjs",
   "exports": {
@@ -58,8 +58,8 @@
   "description": "Responsive Backend Plugin for Strapi v5",
   "license": "MIT",
   "author": "DigitalMoonrise <hi@digitalmoonrise.de>",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/DigitalMoonrise-UG/strapi-5-plugin-responsive-backend"
-	}
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DigitalMoonrise-UG/strapi-5-plugin-responsive-backend"
+  }
 }

@@ -45,7 +45,7 @@ export default {
 	            grid-template-columns: repeat(1, minmax(0, 1fr));
             }
 
-            main[aria-labelledby="main-content-title"]:not(:has(div[data-strapi-header="true"], div[data-strapi-header-sticky="true"]))
+            main[aria-labelledby="main-content-title"]:not(:has(div[data-strapi-header="true"], div[data-strapi-header-sticky="true"])) {
                 padding: 20px;
             }
 

@@ -4,7 +4,7 @@
 
 The **Responsive Admin Panel Plugin for Strapi v5** enhances the usability of the Strapi admin panel on mobile devices. By introducing targeted CSS adjustments, this plugin ensures that the Strapi backend remains accessible and functional on devices with a screen width of less than **767px**.
 
-### It is still work in progress and only works with the Content Manager yet.
+### It is still work in progress and works with the Content Manager, Content Type Build, Media & Marketplace yet.
 
 ---
 
